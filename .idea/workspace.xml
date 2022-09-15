@@ -1,17 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="00dbf6f7-f828-418b-b106-fdc05ba34857" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Real_World_Software_Development.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter2/BankTransactionAnalyzerSimple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/BankTransaction.csv" afterDir="false" />
+    <list default="true" id="00dbf6f7-f828-418b-b106-fdc05ba34857" name="Changes" comment="2022.09.15 가변인자(varargs) 연습 커밋">
+      <change beforePath="$PROJECT_DIR$/src/main/java/chapter2/TestVariableArguments.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chapter2/TestVariableArguments.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,8 +86,23 @@
       <updated>1663162962214</updated>
       <workItem from="1663162964568" duration="1026000" />
       <workItem from="1663218290067" duration="844000" />
-      <workItem from="1663222301981" duration="5310000" />
+      <workItem from="1663222301981" duration="5557000" />
     </task>
+    <task id="LOCAL-00001" summary="2022.09.15 가변인자(varargs) 연습 커밋">
+      <created>1663230204210</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1663230204210</updated>
+    </task>
+    <task id="LOCAL-00002" summary="2022.09.15 가변인자(varargs) 연습 커밋">
+      <created>1663230224272</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1663230224272</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -112,5 +118,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="2022.09.15 가변인자(varargs) 연습 커밋" />
+    <option name="LAST_COMMIT_MESSAGE" value="2022.09.15 가변인자(varargs) 연습 커밋" />
   </component>
 </project>
